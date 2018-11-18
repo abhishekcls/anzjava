@@ -1,7 +1,8 @@
-public class Demo
+import static java.lang.System;
+public class Second
 {
 	static public void main(String args[])
 	{
-		System.out.println("Hello");
+		out.println("Hello");
 	}
 }
